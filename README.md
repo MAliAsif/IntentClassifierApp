@@ -1,16 +1,5 @@
 # Intent Classifier Application  
 
-## 📁 Project Structure
-INTENT_CLASSIFIER/
-├── api/
-├── Auth/
-├── ml/ 
-├── response_models/
-├── requirements.txt
-├── Dockerfile
-└── README.md
-
-
 
 ## 🔧 Installation
 
