@@ -1,0 +1,1214 @@
+Input Query,Intent
+"Send an email to <br/>John regarding the project update., ",email_send
+"Email Alice to remind her about the <br/>document deadline., ",email_send
+"Send an email to (""Bob asking for the report on the new project., ",email_send
+How’s your energy today? Feeling good?,general_chat
+How’s the weather where you are?,general_chat
+"Can you book a meeting with the UX team for feedback on the design?, ",calender_schedule
+How Can I Design a Responsive Website?,web_search
+How do I clean a coffee maker?,web_search
+What have you been up to today?,general_chat
+Does the company offer time off for grief or mourning?<br />Is it paid?,knowledge_query
+"Send an email to Rita about the delivery schedule., ",email_send
+What is the easiest way to start a business?,web_search
+How’s the week treating you so far?,general_chat
+"Send an email to Sam regarding the budget approval., ",email_send
+How’s your mood today? Everything good?,general_chat
+How’s your health been lately? <br />Feeling better?,general_chat
+How do I apply for emergency leave at work?,knowledge_query
+Send an email to Alice about the team’s performance review.,email_send
+"Please schedule a follow-up meeting with the product team., ",calender_schedule
+How’s everything at home?,general_chat
+Can you explain the company’s sick leave policy?,knowledge_query
+How’s life with you? <br />Anything new happening?,general_chat
+What’s the latest with you today?,general_chat
+Find me a guide on digital marketing.,web_search
+"Schedule a one-on-one with Mark to discuss the upcoming launch., ",calender_schedule
+"Set up a meeting with the sales team to discuss quarterly targets., ",calender_schedule
+Find a list of top educational podcasts.,web_search
+How are you feeling?,general_chat
+"Can you send an email to Matt about the new project requirements?, ",email_send
+How many vacation days do employees receive annually?,knowledge_query
+"Can you send an email to Karen confirming the task completion?, ",email_send
+"Schedule a call with the project leads to discuss the timeline for deliverables., ",calender_schedule
+"Arrange a meeting with the CEO and directors tomorrow at 9 AM., ",calender_schedule
+What’s new in your personal life? <br />Got any plans for the weekend?,general_chat
+"Can you schedule a call with the customer support team for updates?, ",calender_schedule
+Please arrange a meeting with the engineering team for next Wednesday.,calender_schedule
+How’s everything going for you today? Anything exciting?,general_chat
+What’s the news in your world? <br />Any exciting updates?,general_chat
+Find information on how to meditate effectively.,web_search
+What is the leave policy for employees on probation?,knowledge_query
+"Schedule a meeting with the client for Thursday morning., ",calender_schedule
+Can I use my sick days for a personal illness?,knowledge_query
+Can I take time off for a personal appointment without pay?,knowledge_query
+How do I train for a half marathon?,web_search
+How tall is the Eiffel Tower?,web_search
+How’s it going with your personal goals?,general_chat
+What happens to my leave balance if I don't take it all this year?,knowledge_query
+"Please set up a call with the client for tomorrow to discuss the design update., ",calender_schedule
+Can you send an email to the client confirming the meeting schedule?,email_send
+How’s everything with your family today?,general_chat
+"Schedule a project update call with the leadership team for next Monday., ",calender_schedule
+How’s the weather treating you today?,general_chat
+Search for the latest trends in artificial intelligence.,web_search
+What is the process for taking a leave of absence?,knowledge_query
+"Arrange a team meeting for the new marketing strategies., ",calender_schedule
+"How’s everything today, all good?",general_chat
+How do I request time off for a personal project?,knowledge_query
+How do I request time off for an appointment?,knowledge_query
+How are things going in your life right now?,general_chat
+How’s everything going with the weather today?,general_chat
+How many days of leave do I have left this year?,knowledge_query
+How much notice do I need to give when requesting leave?,knowledge_query
+What are the symptoms of the flu?,web_search
+How have you been holding up?,general_chat
+How are things going on your end?,general_chat
+Can you find the latest news on cryptocurrency?,web_search
+"Please send an email to Rachel with the upcoming schedule., ",email_send
+How do I request paid family leave if I’m taking care of a newborn?,knowledge_query
+Send an email to the team about the new product launch.,email_send
+What is the fastest way to learn coding?,web_search
+What’s the best way to save for a down payment on a house?,web_search
+Can I take a few hours off without using my leave days?,knowledge_query
+"Send an email to Victoria about the updated project timeline., ",email_send
+"Can you arrange a meeting with the CEO to discuss the new strategy?, ",calender_schedule
+"Email Kate to request the latest version of the file., ",email_send
+How’s life been treating you recently?,general_chat
+Can you tell me the process for requesting a day off?,knowledge_query
+Send an email to Alice to discuss the new product launch.,email_send
+What is the company’s policy on leave for education purposes?,knowledge_query
+"Please arrange a call with the stakeholders to review the progress., ",calender_schedule
+"Please send an email to Alex confirming the new report submission date., ",email_send
+Can you tell me about our company's remote work policy?,knowledge_query
+"Send an email to Claire about the meeting updates., ",email_send
+What is the policy for taking leave during the holiday season?,knowledge_query
+"Arrange a meeting with the project team for next Monday morning., ",calender_schedule
+Please set up a call with the customer service team for next Wednesday.,calender_schedule
+"Send an email to Lily about the new product designs., ",email_send
+How long do I need to work at the company to qualify for paid leave?,knowledge_query
+Where can I buy a good quality backpack?,web_search
+What is the best car for families?,web_search
+"Can you send an email to Rachel confirming the changes?, ",email_send
+"Send an email to Nick with the updated product information., ",email_send
+How do I report when I take time off?,knowledge_query
+"Please email Greg to confirm the changes in the contract., ",email_send
+What’s the mood like today? <br />Anything interesting happening?,general_chat
+Search for the latest news on COVID-19.,web_search
+"Email Karen about the progress on the recent client project., ",email_send
+Search for healthy snack ideas for weight loss.,web_search
+Please arrange a meeting with the HR department to discuss employee policies.,calender_schedule
+What’s the Cost of Building a Website?,web_search
+How’s your family today?,general_chat
+"Please email Emma with the training updates., ",email_send
+How do I improve my public speaking skills?,web_search
+"Email Luke to let him know about the new internal policy., ",email_send
+What is the procedure for requesting time off?,knowledge_query
+"Can you schedule a team meeting to discuss upcoming events?, ",calender_schedule
+"Set up a meeting with the client to review the latest proposal., ",calender_schedule
+"Can you set up a call with the finance team to discuss the budget?, ",calender_schedule
+What are the benefits of drinking water?,web_search
+Set up a meeting with the client to discuss the new project proposals.,calender_schedule
+What is the process for using my sick days if I need to leave early?,knowledge_query
+What is the meaning of life?,web_search
+"Can you set up a video call with the stakeholders at 2 PM tomorrow?, ",calender_schedule
+What's the best way to invest in the stock market in 2023?,web_search
+"Send an email to Monica regarding the product updates., ",email_send
+"Can you schedule a meeting with Sarah and David to discuss the launch?, ",calender_schedule
+"Can you email Jack to confirm his participation in the event?, ",email_send
+"Please schedule a client call for tomorrow at 1 PM., ",calender_schedule
+How’s everything in your life today?,general_chat
+What’s the fastest way to learn a new programming language?,web_search
+What’s up with you? <br />Anything exciting going on?,general_chat
+"Please schedule a meeting with the CEO for the annual review., ",calender_schedule
+Where is the nearest hospital?,web_search
+"Please schedule a review meeting with the development team on Wednesday., ",calender_schedule
+What happens if I don’t use all my paid leave days?<br /><br />Is there a carryover policy?,knowledge_query
+"Email the team about the project status update., ",email_send
+How do I apply for extended parental leave at our company?,knowledge_query
+What is the policy for requesting a personal day off?,knowledge_query
+Where can I learn graphic design online?,web_search
+"Can you send an email to Evan confirming the meeting time?, ",email_send
+"Can you email Sarah about the product shipment delay?, ",email_send
+"Schedule a quick check-in meeting with the design team at 10 AM., ",calender_schedule
+"Please set up a follow-up meeting with the customer success team., ",calender_schedule
+Can you find the best sushi restaurants in Los Angeles?,web_search
+Does the company offer leave for volunteering?<br />How do I apply for it?,knowledge_query
+How do I make homemade bread?,web_search
+Can I use my sick days for a personal health issue?,knowledge_query
+What’s the best place to travel in Europe in 2023?,web_search
+Can I take unpaid leave for a personal reason?,knowledge_query
+Where can I buy a good quality camera?,web_search
+What is the best online course for photography?,web_search
+Can you show me a guide on starting a business?,web_search
+"Send an email to Frank regarding the updated meeting agenda., ",email_send
+"Can you set up a conference call with the project managers tomorrow?, ",calender_schedule
+How was your day today?,general_chat
+How’s everything going with you today?,general_chat
+Can I take vacation leave during the busy season?<br />Does the company approve it?,knowledge_query
+Find me articles on entrepreneurship.,web_search
+How’s your week starting out?,general_chat
+"Can you send an email to the team to schedule the meeting on Friday?, ",calender_schedule
+Do we get any paid holidays at work?,knowledge_query
+Search for the latest news on renewable energy.,web_search
+How to Improve Website Security?<br>Any tips?,knowledge_query
+"Can you schedule a meeting with the HR team for Thursday afternoon?, ",calender_schedule
+How’s life today? Everything working out well?,general_chat
+How to Monetize Your Website?,web_search
+"Send an email to Mark about the team meeting., ",email_send
+How’s your day going so far?,general_chat
+Where can I find quality home decor?,web_search
+Where is the best place to travel in 2023?,web_search
+Can I request a leave of absence if I need personal time?,knowledge_query
+How’s everything going on your side?,general_chat
+Can you explain the company’s policy on leave for jury duty?,knowledge_query
+"Please set up a follow-up meeting with the development team for the bug fix., ",calender_schedule
+"Send an email to Samantha with the project outline.<br />Please confirm the timeline., ",email_send
+What’s the policy on taking vacation time during the holidays?<br />Is there a blackout period?,knowledge_query
+"Schedule a meeting with the finance team tomorrow at 10 AM., ",calender_schedule
+"Please schedule a meeting with the client for next Monday morning., ",calender_schedule
+How’s your day going so far? Hope it’s good.,general_chat
+"Please send an email to Will regarding the meeting schedule., ",email_send
+Where can I find affordable clothing online?,web_search
+Send an email to Kate to confirm her availability for the conference.,email_send
+How do I apply for personal leave at our company?,knowledge_query
+How are you today? Feeling positive vibes today?,general_chat
+What is the policy on taking leave during peak business seasons?,knowledge_query
+"Can you email the team about the updated project requirements?, ",email_send
+Schedule a team meeting for Wednesday at 2 PM.,calender_schedule
+How’s your mood today? Anything exciting happening?,general_chat
+What is the company's approach to unpaid leave requests?,knowledge_query
+What’s the company’s approach to time off for religious observances?,knowledge_query
+Can I take extended leave for a personal or family emergency?<br /><br />What’s the limit?,knowledge_query
+Can I take personal leave if I have an emergency?,knowledge_query
+"Please send an email to Jordan with the updated meeting details., ",email_send
+"Can you set up a meeting with the project managers at 9 AM?, ",calender_schedule
+What is the company’s policy on time off for public holidays?,knowledge_query
+How do I apply for a sabbatical leave at our company?,knowledge_query
+What happens if I exceed my allotted leave time?<br /><br />Is there any penalty?,knowledge_query
+Where is the best place to visit in Japan for first-time travelers?,web_search
+Show me a tutorial on Python for beginners.,web_search
+"Send an email to Jesse about the updated training material., ",email_send
+"Send an email to Oliver about the product specifications., ",email_send
+Can you explain the holiday leave entitlement?,knowledge_query
+Where can I buy a treadmill for home use?,web_search
+"Send an email to Zoe with the product specs., ",email_send
+What’s going on with your team this week? <br />Any updates?,general_chat
+How’s your energy today? Are you feeling upbeat?,general_chat
+What is the company’s stance on requesting leave for mental health days?,knowledge_query
+How’s your workday been today?,general_chat
+Where is the best place to see the Northern Lights?,web_search
+How are you doing with your hobbies lately?,general_chat
+How’s your mood today?,general_chat
+"Can you arrange a conference call with the product managers?, ",calender_schedule
+"Send an email to Liam to remind him about the deadline for the task., ",email_send
+"Schedule a team meeting to discuss the upcoming conference., ",calender_schedule
+How do I apply for compassionate leave to attend a funeral?,knowledge_query
+"Please schedule a call with John for tomorrow at 9 AM., ",calender_schedule
+"Send an email to George regarding the issue with the payment., ",email_send
+What’s new in your world?,general_chat
+Where can I buy an eco-friendly phone case?,web_search
+"Please schedule a team meeting to review the progress on the project., ",calender_schedule
+How’s everything going today? Hope it’s all good!,general_chat
+Can you schedule a video call with the management team tomorrow morning?,calender_schedule
+Where can I find a good workout routine for beginners?,web_search
+What are the most common coding languages?,web_search
+"Please arrange a call with the marketing team to discuss campaign strategy., ",calender_schedule
+What’s the process for applying for a leave of absence due to illness or injury?,knowledge_query
+How long do I need to wait before requesting unpaid leave?,knowledge_query
+How’s your week started out so far?,general_chat
+How have things been today?,general_chat
+"Can I take a leave of absence for personal reasons, and how do I apply?",knowledge_query
+How’s everything been with you? <br />Any fun activities this week?,general_chat
+Can I take unpaid leave if I exhaust my paid leave?,knowledge_query
+How do I apply for time off if I’m feeling burned out?,knowledge_query
+How do I apply for a leave of absence for medical reasons?,knowledge_query
+"Can you schedule a project kick-off meeting with the client?, ",calender_schedule
+"Please schedule a meeting with the UX team for the design review., ",calender_schedule
+"Can you arrange a meeting with Bob and David for the new product?, ",calender_schedule
+Email Mark with the updates on the new product launch.,email_send
+Set up a meeting with the product team to discuss the next release.,calender_schedule
+Send an email to Lisa about the conference schedule for next week.,email_send
+What’s the mood like today?,general_chat
+How do I get better at networking?,web_search
+Can I take vacation days for a personal event?,knowledge_query
+Can you find articles about the effects of climate change?,web_search
+"Send a reminder email to Grace about the submission deadline., ",email_send
+Can I request leave if I need to take care of an elderly family member?,knowledge_query
+What are the main causes of climate change?,web_search
+What’s the process for requesting paid time off?,knowledge_query
+Where can I buy a smartwatch?,web_search
+Where can I learn to speak French for free?,web_search
+"Can you schedule a call with the client to discuss the next phase of the project?, ",calender_schedule
+"Can you arrange a meeting with the HR team tomorrow at 12 PM?, ",calender_schedule
+"Can you send an email to Andy regarding the new job openings?, ",email_send
+What’s the fastest animal in the world?,web_search
+Is there a limit on the number of sick days we can take in a year?,knowledge_query
+What’s the policy on taking leave for personal development or education?,knowledge_query
+What is the best website builder for beginners?,web_search
+What is the procedure for taking leave when I’m recovering from surgery?,knowledge_query
+"Can you arrange a meeting with the engineering team to discuss the latest build?, ",calender_schedule
+"Please set up a quick meeting with the developers to discuss the build., ",calender_schedule
+What’s the fastest way to grow a small business?,web_search
+"Send an email to Olivia confirming the project schedule., ",email_send
+"Can you set up a meeting with the operations team regarding the workflow?, ",calender_schedule
+How do I request leave for a personal appointment with a doctor?,knowledge_query
+What is the policy on leave for medical reasons?,knowledge_query
+Find me some motivational podcasts.,web_search
+How can I learn to play the guitar?,web_search
+"Email the client with the updated meeting details., ",email_send
+How many days off can I take for personal reasons?,knowledge_query
+How many hours of leave can I take for personal reasons each year?,knowledge_query
+"Please email Emma regarding the document review status., ",email_send
+How can I reduce stress at work?,web_search
+How are things at work?,general_chat
+Does our company offer paid parental leave?<br />Can you clarify the details?,knowledge_query
+"Can you send an email to Brian about the meeting updates?, ",email_send
+How much paid leave do we receive per year?<br />Can this be rolled over?,knowledge_query
+"Please send an email to Dan asking about the upcoming workshop., ",email_send
+"Can you schedule a meeting with the leadership team for strategy discussion?, ",calender_schedule
+"Schedule a one-on-one with Alice for feedback on the presentation., ",calender_schedule
+Search for the best movies to watch this year.,web_search
+How have you been feeling lately? Everything good?,general_chat
+What Are the Common Mistakes to Avoid While Building a Website?,knowledge_query
+Search for the best streaming services for movies.,web_search
+How are you today? Is everything alright?,general_chat
+How’s life today? Anything exciting happening?,general_chat
+What’s the most popular car in the world?,web_search
+"Can you schedule a team call to discuss the new timeline for the project?, ",calender_schedule
+How’s it going today? Anything exciting happening for you?,general_chat
+Send an email to Jack with the final draft of the presentation.,email_send
+What’s the history of the Roman Empire?,web_search
+How do I start learning <br /> coding from scratch?,web_search
+Send an email to Sarah to confirm the new meeting time.,email_send
+What are the top benefits of drinking water every day?,web_search
+"Send an email to Emily with the updated meeting time., ",email_send
+Where can I find the best hiking trails in the US?,web_search
+Search for the most popular books of 2022.,web_search
+"Send an email to Chloe about the report deadline.<br /><br />Make sure she acknowledges it., ",email_send
+Can you find information on how to meditate properly?,web_search
+Find me tips on increasing productivity.,web_search
+What’s the company policy on vacation days?,knowledge_query
+"Please arrange a meeting with the product team tomorrow morning., ",calender_schedule
+How’s everything been for you?,general_chat
+How’s your work day going so far?,general_chat
+Search for top-rated restaurants in New York City.,web_search
+Find information on the top business schools in the world.,web_search
+How do I request leave for a family emergency?,knowledge_query
+"Please set up a meeting with the development team to prioritize tasks., ",calender_schedule
+How are you today? Everything working out well?,general_chat
+What’s the latest with your project?,general_chat
+What is the company's approach to leave requests for vacations?,knowledge_query
+How’s everything at work today? Anything new?,general_chat
+What is the largest ocean on Earth?,web_search
+How’s work been treating you lately?,general_chat
+"Send an email to Hannah confirming the schedule for next week., ",email_send
+How do I request leave if I am injured or unwell for an extended period of time?,knowledge_query
+Find a recipe for vegan lasagna.,web_search
+"How’s life treating you today, any challenges?",general_chat
+What is the company's policy on taking leave for personal reasons?,knowledge_query
+How does the company handle leave requests during busy periods?,knowledge_query
+"Please schedule a quick call with the marketing team for the launch., ",calender_schedule
+What happens to my leave balance if I leave the company?,knowledge_query
+How are you feeling today? Anything on your mind?,general_chat
+Can you send an email to the client to confirm the delivery date?,email_send
+How’s everything in your personal life? <br />Anything new?,general_chat
+Where can I buy a new television?,web_search
+What’s the best way to learn a new skill quickly?,web_search
+"Can you schedule a video conference with the product team?, ",calender_schedule
+How’s everything with your family today?,general_chat
+"Please arrange a meeting with the accounts team for next Tuesday., ",calender_schedule
+"Please send an email to Alice confirming her availability for the meeting., ",email_send
+What’s the company’s policy on sick leave for employees?,knowledge_query
+Where can I find online courses for data analysis?,web_search
+Find me the best resources for learning machine learning.,web_search
+"Can you schedule a brainstorming session with the creative team?, ",calender_schedule
+"Please arrange a meeting with the team to review the project goals., ",calender_schedule
+What’s the best way to lose weight without exercise?,web_search
+Does the company offer any paid volunteer leave?,knowledge_query
+How’s your energy level today?,general_chat
+"Please send an email to Karen confirming the updated schedule., ",email_send
+How’s your health today?,general_chat
+"Can you email Mary to remind her about the pending tasks?, ",email_send
+"Can you email Nathan about the upcoming meeting?, ",email_send
+What is the company’s policy on taking leave during a project?,knowledge_query
+"Please send an email to Charlotte with the updated budget report., ",email_send
+Where can I find good workout plans online?,web_search
+Can you find me a guide on improving <br /> focus and concentration?,web_search
+Can you send an email to Alice for the weekly report submission?,email_send
+How many hours of leave can I take for personal appointments or meetings?,knowledge_query
+What’s the best budget-friendly camera for beginners?,web_search
+"Arrange a meeting with the customer service team to discuss feedback collection., ",calender_schedule
+What are the best exercises for strengthening core muscles?,web_search
+How’s the mood today? Anything good happening?,general_chat
+What’s the best online course for web development?,web_search
+How are things going with your family today?,general_chat
+"Please send an email to Jake about the project timeline., ",email_send
+How long does it take to process leave requests at our company?,knowledge_query
+"Can you send an email to Luke confirming the date for the webinar?, ",email_send
+"Send an email to Harry confirming the meeting time., ",email_send
+Email the finance team regarding the budget approval for next quarter.,email_send
+How are things looking for the weekend?,general_chat
+"Please send an email to Brian about the upcoming software launch., ",email_send
+Search for top-rated smartphones this year.,web_search
+"Schedule a conference call with the client for Monday at 3 PM., ",calender_schedule
+"Please send an email to Kate regarding the updated meeting time., ",email_send
+"Send an email to Oscar regarding the updated schedule., ",email_send
+How many days of paid sick leave do we get each year?,knowledge_query
+"Arrange a meeting with the project team to discuss the upcoming deadlines., ",calender_schedule
+Please arrange a team meeting to discuss the new project goals.,calender_schedule
+How’s your week been so far?,general_chat
+What are the best ways to reduce stress at work?,web_search
+What is the policy for working from home at our company?,knowledge_query
+"Can you schedule a follow-up meeting with the client next week?, ",calender_schedule
+"Please schedule a follow-up meeting with the HR department for updates on recruitment., ",calender_schedule
+Does the company offer any type of family leave?<br /><br />How does it work?,knowledge_query
+"Schedule a meeting with the engineering team for project discussion., ",calender_schedule
+"Can you schedule a meeting with the team to discuss marketing plans?, ",calender_schedule
+"Schedule a meeting with the operations team for tomorrow at 1 PM., ",calender_schedule
+How’s your energy today? <br />Feeling motivated?,general_chat
+What is the process for taking extended sick leave?,knowledge_query
+How’s your day going so far today? Anything new?,general_chat
+How are you today? Anything special happening today?,general_chat
+"Can you schedule a team meeting to discuss the new project launch?, ",calender_schedule
+Where can I get a good deal on a new smartphone?,web_search
+What’s up today? How are you doing?,general_chat
+What are the benefits of walking every day?,web_search
+"Please email Vanessa about the project updates., ",email_send
+Find me the top 10 business books to read.,web_search
+Please schedule a call with the software development team for 2 PM tomorrow.,calender_schedule
+Search for the top tourist attractions in London.,web_search
+"Please schedule a meeting with the client for tomorrow at 9 AM., ",calender_schedule
+"Can you set up a meeting with the operations team for the process update?, ",calender_schedule
+What’s the process for requesting time off during the holidays?,knowledge_query
+"Please set up a meeting with the stakeholders to review the progress., ",calender_schedule
+"Please send an email to Emily with the project deadline., ",email_send
+Where can I buy a laptop under $500?,web_search
+"Email Emma about the status of the ongoing project., ",email_send
+What have you been up to today? How’s it going?,general_chat
+"Can you send an email to Peter with the updated project file?, ",email_send
+"Please send an email to schedule a follow-up meeting with the development team., ",calender_schedule
+"Can you set up a meeting with John for the project review tomorrow?, ",calender_schedule
+How’s everything been today? Anything fun going on?,general_chat
+What’s the policy for taking leave if I have a health condition?,knowledge_query
+Can you arrange a call with Sarah for next week at 1 PM?,calender_schedule
+"Can you book a meeting with the project managers for the quarterly review?, ",calender_schedule
+What’s the best app for meditation?,web_search
+"Can you arrange a team meeting for the brainstorming session at 11 AM?, ",calender_schedule
+"Set up a project status meeting with the team tomorrow., ",calender_schedule
+"Set up a meeting with the client to discuss the implementation details., ",calender_schedule
+Find me a beginner’s guide to graphic design.,web_search
+How’s it going today? Everything going smooth?,general_chat
+"Can you email the team with the updated project agenda?, ",email_send
+"Send an email to Janet regarding the new project details., ",email_send
+Where can I find a pet store nearby?,web_search
+"Can you send an email to schedule a call with the stakeholders for project review?, ",calender_schedule
+"Please email Tom about the updated meeting details., ",email_send
+"Can you email Ben about the project timeline?, ",email_send
+How do I apply for unpaid leave?<br /><br />Is there any special process?,knowledge_query
+"Please arrange a meeting with the leadership team for next Monday at 11 AM., ",calender_schedule
+Can you search for top-rated restaurants in Paris?,web_search
+Where can I find a good gym in New York?,web_search
+How much annual leave do employees typically get?,knowledge_query
+How’s everything going this week?,general_chat
+How are things with you today? Anything new?,general_chat
+Can I take a break for personal reasons during a busy work week?<br />Is there a policy for that?,knowledge_query
+"Send an email to Diana about the report submission deadline., ",email_send
+What is the procedure for taking a medical leave?,knowledge_query
+"Can you schedule a meeting with the marketing team at 10 AM?, ",calender_schedule
+"Send an email to Alice about the updated meeting agenda., ",email_send
+How have you been feeling lately?,general_chat
+"Set up a follow-up meeting with the project team to discuss the next steps., ",calender_schedule
+How to Create a Portfolio Website?,web_search
+How have things been for you today?,general_chat
+How’s it been going at work for you?,general_chat
+"Can you email Sarah about the latest marketing campaign?, ",email_send
+"How are you doing today, everything good?",general_chat
+What are the benefits of yoga?,web_search
+Can you find me news on the latest Marvel movie?,web_search
+Can you schedule a call with the marketing team on Friday at 10 AM?,calender_schedule
+How many sick days do I have available this year?,knowledge_query
+Where can I buy a gaming console?,web_search
+How many personal leave days do we get each year?,knowledge_query
+"Please email Charlotte about the new software release., ",email_send
+"Please arrange a meeting with the finance team for budget planning., ",calender_schedule
+Can you search for the latest news on artificial intelligence?,web_search
+What is the company’s policy on leave for volunteering?,knowledge_query
+Can you set up a meeting with the finance team tomorrow afternoon?,calender_schedule
+Can you find the most popular podcasts for entrepreneurs?,web_search
+How many days of leave do employees get per year?,knowledge_query
+What’s the company’s policy on emergency leave for family reasons?,knowledge_query
+"Can you send an email to Sarah confirming the new project details?, ",email_send
+"Send an email to David to confirm the new project timeline., ",email_send
+What’s been happening in your world lately?,general_chat
+How are you today? Anything on your mind?,general_chat
+What is the fastest way to lose weight?,web_search
+Does the company provide leave for mental health care?,knowledge_query
+What’s the most popular smartphone brand?,web_search
+"Please send an email to schedule a follow-up meeting with the client., ",calender_schedule
+How to start a blog on WordPress?,web_search
+What’s going on in your life today?,general_chat
+"Can you send an email to Jack confirming the new schedule?, ",email_send
+"Send an email to Rachel regarding the client feedback., ",email_send
+Can I take paid leave for a medical treatment appointment?,knowledge_query
+"Send an email to Joseph about the updated meeting details., ",email_send
+How are you today? Hope it’s a good day for you.,general_chat
+How’s your mood today? Anything exciting?,general_chat
+"Please send an email to Emily about the upcoming team meeting., ",email_send
+What is the company’s policy on paid time off?,knowledge_query
+How do I create a personal budget?,web_search
+"How do I make a chocolate cake?,,",web_search
+How do I request paid family leave at work?,knowledge_query
+What is the leave policy for a new parent at our company?,knowledge_query
+What is a Landing Page and How Do I Create One?,knowledge_query
+Find me news on the stock market today.,web_search
+"Please set up a meeting with the customer support team to review service updates., ",calender_schedule
+What is the maximum amount of leave I can take in a year?,knowledge_query
+"Please arrange a client call tomorrow at 10 AM to discuss the details., ",calender_schedule
+What is our company's leave policy?<br /><br />Please confirm.,knowledge_query
+"Please send an email to Ethan confirming the updated meeting time., ",email_send
+"Send an email to Noah confirming the time for the presentation., ",email_send
+How do I become more confident in social situations?,web_search
+"Search for ""how to improve your public speaking skills.""",web_search
+"Please schedule a meeting with John and Lucy for the project update., ",calender_schedule
+"Please email the client regarding the updated schedule., ",email_send
+What’s the capital of France?,web_search
+What’s the policy on taking leave for holidays outside the country?,knowledge_query
+Search for good workout plans for beginners.,web_search
+What is the history of the internet?,web_search
+"Please arrange a meeting with the marketing and product teams for feedback., ",calender_schedule
+How do I improve my writing skills?,web_search
+How does the company handle bereavement leave requests?,knowledge_query
+"Can you email Karen with the updated agenda?, ",email_send
+What’s the most popular song in the world right now?,web_search
+What’s the capital of Japan?,web_search
+How’s your energy today? <br />Got any fun plans?,general_chat
+Can I take a leave for a personal trip abroad?,knowledge_query
+"Send an email to Mark about the updated product launch., ",email_send
+"Please send an email to John to confirm his presentation slot., ",email_send
+Where can I buy the latest iPhone?,web_search
+What’s the policy for taking leave during a business trip?,knowledge_query
+What’s the fastest way to learn a new language?,web_search
+How do I learn web development from scratch?,web_search
+How to add a blog to your Website?,web_search
+What is the policy for unpaid leave at the company?,knowledge_query
+Does the company provide any leave benefits for long-term illness?,knowledge_query
+Can I take a leave of absence for personal development or training?,knowledge_query
+Can I take unpaid leave for personal reasons during the holiday season?,knowledge_query
+How’s everything going with you lately?,general_chat
+How’s everything looking for your team’s goals?,general_chat
+"Send an email to Naomi regarding the marketing campaign progress., ",email_send
+What is the process for taking a sabbatical?,knowledge_query
+How’s everything today? Got anything planned?,general_chat
+How does the company handle time off for jury duty?,knowledge_query
+Can I take a leave for personal development purposes?,knowledge_query
+How to Create a Website using HTML<br>and CSS?,web_search
+How’s the world treating you today?,general_chat
+"Can you set up a client call for the proposal discussion?, ",calender_schedule
+"Please send an email to Daisy with the new policy updates., ",email_send
+What is the maximum amount of time off allowed per year?,knowledge_query
+Search for online courses on graphic design.,web_search
+"Send an email to Isaac about the new marketing campaign., ",email_send
+"Can you arrange a meeting with the operations team for the strategy session?, ",calender_schedule
+How’s your day today? Anything fun going on?,general_chat
+What’s the latest with your personal projects?,general_chat
+Can you find some easy recipes for beginners?,web_search
+"Send an email to Nicole about the product update., ",email_send
+Is there a limit on the number of sick days we can take?,knowledge_query
+"Set up a meeting with the CEO for next week’s strategy session., ",calender_schedule
+Where can I find top-rated video games?,web_search
+How’s your morning going so far?,general_chat
+"Can you schedule a meeting with the legal team to review the documents?, ",calender_schedule
+What is the policy on taking leave for mental health days?,knowledge_query
+<br /> Where is the best place to live in the world?,web_search
+How do I start a blog?,web_search
+"Please arrange a meeting with the design team for the new project., ",calender_schedule
+Does the company have any leave benefits for international travel?,knowledge_query
+How much notice do I need to give for planned time off?,knowledge_query
+How’s everything going with you today?,general_chat
+"Can you email Stephanie regarding the meeting time?, ",email_send
+"Arrange a follow-up meeting with the client for the final approval., ",calender_schedule
+"Search for ""how to start a business"" guide online.",web_search
+How much sick leave can I take before it becomes unpaid?,knowledge_query
+How’s it going? You doing okay today?,general_chat
+"Can you send an email to schedule a review meeting with the client?, ",calender_schedule
+How’s your energy today? Are you ready to go?,general_chat
+Search for the best free online courses for data science.,web_search
+"Can you send an email to Leo about the pending reports?, ",email_send
+What’s the vibe today? <br />Anything new on your plate?,general_chat
+How do I request leave for attending a funeral?<br />Are there any special guidelines?,knowledge_query
+Where can I find a good yoga instructor near me?,web_search
+What is the best way to manage my finances?,web_search
+Can I take leave if I need to attend a family event?,knowledge_query
+What is the process for designing a Website?,web_search
+"Can you set up a meeting with the operations team to discuss logistics?, ",calender_schedule
+How do I apply for paid family leave?,knowledge_query
+How are you doing today?,general_chat
+"Set up a quick check-in with the project managers tomorrow at 2 PM., ",calender_schedule
+"Send an email to Kevin regarding the report submission delay., ",email_send
+Where is the best place to buy a laptop online?,web_search
+"Send an email to Frank about the upcoming conference., ",email_send
+How do I set up a home office?,web_search
+"Send an email to Jenny regarding the product shipment status., ",email_send
+"Send an email to Brian regarding the new project timeline., ",email_send
+"Please send an email to Chris about the upcoming team meeting., ",email_send
+Please arrange a team meeting with the leadership team for next week.,calender_schedule
+"Send an email to Cindy about the new product launch details., ",email_send
+How’s it been going with your health lately?,general_chat
+"Send an email to Isabel about the client meeting.<br /><br />Ensure she confirms., ",email_send
+How’s it going today? Anything exciting happening?,general_chat
+What’s new with you?,general_chat
+How’s it going today? Hope everything is going smoothly.,general_chat
+How do I improve my time management skills?,web_search
+Where can I find the best skincare products?,web_search
+How’s everything been today? What have you been up to?,general_chat
+What’s the best method to learn coding for beginners?,web_search
+"Please schedule a call with the design team at 4 PM., ",calender_schedule
+"Can you send an email to Sarah to confirm the upcoming event?, ",email_send
+Search for the latest iPhone release details.,web_search
+How are you feeling today? Any new challenges?,general_chat
+How’s everything with your upcoming plans? <br />Excited?,general_chat
+"Can you send an email to Karen about the upcoming webinar?, ",email_send
+What is our company’s leave policy?,knowledge_query
+"Can you schedule a one-on-one with the CEO to discuss quarterly goals?, ",calender_schedule
+"Send an email to Clara with the details about the upcoming task., ",email_send
+How do I make a banana smoothie?,web_search
+Please send an email to Mark regarding the feedback for the new design.,email_send
+"Please schedule a client call to discuss the new proposal., ",calender_schedule
+How do I create a portfolio website?,web_search
+"Set up a conference call with the management team to review the latest results., ",calender_schedule
+"Can you email Lucas about the upcoming meeting schedule?, ",email_send
+"Please send an email to Liam with the updated schedule., ",email_send
+How are you today? Anything new to talk about?,general_chat
+What’s the best way to learn a new language?,web_search
+How to Integrate Social Media on Your Website?,web_search
+"Send an email to Luke about the meeting time., ",email_send
+How do I change a flat tire?,web_search
+Find me information on the Paris Agreement.,web_search
+What’s new with you today?,general_chat
+Does the company offer any mental health leave?,knowledge_query
+"How’s everything with you today, feeling positive?",general_chat
+"Can you arrange a meeting with the customer success team tomorrow?, ",calender_schedule
+Can I take leave to care for a sick family member?,knowledge_query
+"Can you schedule a meeting with <br /> the content team to discuss the new article?, ",calender_schedule
+How much time off can I take for personal health-related issues each year?,knowledge_query
+"Email the HR team about the recent policy changes., ",email_send
+How do I organize my workspace effectively?,web_search
+How to find a web hosting provider?,web_search
+Can I take a leave of absence for a personal reason not listed in the policy?,knowledge_query
+"Send an email to Ava about the team’s performance in the last project., ",email_send
+Can I take leave for personal reasons at the company?,knowledge_query
+"Send an email to George about the recent project updates., ",email_send
+"Set up a meeting with the tech team for Monday morning., ",calender_schedule
+What's the fastest animal on Earth? <br />Can you tell me more?,web_search
+Search for the best online yoga classes.,web_search
+Find a guide to budgeting for beginners.,web_search
+"Send an email to Olivia to inform her of the meeting time., ",email_send
+What are the benefits of eating organic food?,web_search
+"Send an email to Michael with the latest project updates., ",email_send
+Email Sarah about the changes to the proposal submission.,email_send
+How are things going today?,general_chat
+How long does the company allow employees to take leave?,knowledge_query
+"Please schedule a follow-up meeting with the HR team regarding the new policy., ",calender_schedule
+"Please schedule a call with the management team to discuss the goals for the year., ",calender_schedule
+How are you feeling today?,general_chat
+"Set up a quick meeting with the project managers for the new update., ",calender_schedule
+Please schedule a quick check-in meeting with the team for feedback.,calender_schedule
+Schedule a meeting with the client for Thursday morning.,calender_schedule
+Can you email John to ask about the progress on the report?,email_send
+How much vacation time do I earn per month or year?,knowledge_query
+"Can you set up a quick check-in meeting with the leadership team?, ",calender_schedule
+"Send an email to Thomas confirming the meeting time., ",email_send
+What’s up?,general_chat
+What’s new in your work life? <br />Any big projects coming up?,general_chat
+How’s the project going? <br />Any progress?,general_chat
+Can I take a leave of absence for the birth of a child or adoption?,knowledge_query
+What’s the vibe with your work right now?,general_chat
+What have you been up to lately?,general_chat
+Can you explain the employee retirement benefits plan?,knowledge_query
+How are you doing today? <br />Any fun things planned?,general_chat
+How was your day today? Anything interesting happen?,general_chat
+"Please set up a call with the finance team regarding the audit report., ",calender_schedule
+How’s everything been this morning?,general_chat
+How’s your health today? Feeling better?,general_chat
+Send an email to the team regarding the upcoming meeting.,email_send
+What’s happening today? Anything interesting?,general_chat
+How’s the work week going for you?,general_chat
+Can you set up a meeting with the customer support team at 11 AM tomorrow?,calender_schedule
+Can you explain the policy for requesting unpaid leave?,knowledge_query
+"Please set up a team meeting to discuss the next sprint tasks., ",calender_schedule
+What is the policy for taking leave for personal reasons?,knowledge_query
+Where can I get a good deal on a car?,web_search
+Please set up a meeting with the operations team at 4 PM tomorrow.,calender_schedule
+How do I apply for compassionate leave?,knowledge_query
+How’s everything looking for the weekend?,general_chat
+What’s the capital of Australia?,web_search
+How’s the day treating you?,general_chat
+Can you tell me how to apply for parental leave?,knowledge_query
+"Please send an email to Rachel about the meeting updates., ",email_send
+"Can you email Julie about the team meeting?, ",email_send
+What is the most common type of cancer?,web_search
+How’s it going today? What’s on the agenda?,general_chat
+"Can you email the team about the new meeting time?, ",email_send
+"Set up a strategy meeting with the leadership team for next week., ",calender_schedule
+What’s the vibe today? Anything fun happening?,general_chat
+How’s everything going in your world today?,general_chat
+How have you been?,general_chat
+Can I take leave for a personal event or wedding?,knowledge_query
+Does the company offer any special leave for long-term illness?,knowledge_query
+What's the population of Tokyo? <br />Please provide the latest data.,web_search
+"Can you email Alex to confirm the meeting time?, ",email_send
+What’s the latest news about SpaceX?,web_search
+"Send an email to Lisa confirming the payment details., ",email_send
+"Arrange a meeting with the content team for the new content strategy., ",calender_schedule
+"Please schedule a check-in with the marketing team at 11 AM., ",calender_schedule
+Please email Tom with the details about the new product.,email_send
+What is the company’s leave policy for employees in management roles?,knowledge_query
+Search for the best online cooking classes.,web_search
+"Can you email Sarah to confirm the meeting time?, ",email_send
+How’s it going today? Anything to share with me?,general_chat
+What’s the company policy on taking leave after a major surgery?,knowledge_query
+What is the company’s policy on leave for jury duty?,knowledge_query
+How’s everything with your work tasks?,general_chat
+How’s your energy level today?,general_chat
+How have things been going for you?,general_chat
+Can you schedule a meeting with the marketing team at 3 PM tomorrow?,calender_schedule
+"Send an email to Jack with the file for the meeting., ",email_send
+How’s your week been so far? Anything interesting?,general_chat
+How do I fix a slow computer?,web_search
+Can I request time off for an urgent family matter?,knowledge_query
+Find me a recipe for a healthy smoothie.,web_search
+"Please send an email to David with the documents for review., ",email_send
+Search for how to make your own website.,web_search
+"Can you send an email to Chris about the new project timelines?, ",email_send
+Can you find the most recent news on climate change?,web_search
+Schedule a call with the development team for Thursday afternoon.,calender_schedule
+How are you today?,general_chat
+Can I take unpaid leave if my paid leave is exhausted?,knowledge_query
+How’s everything with you today?,general_chat
+"Please set up a meeting with the marketing team to finalize the campaign., ",calender_schedule
+Search for the best free online courses.,web_search
+Find me the top fitness trends of 2022.,web_search
+"Please email the team with the updated training schedule., ",email_send
+"Can you send an email to Luke with the updated project timeline?, ",email_send
+How’s everything today? Got any interesting news?,general_chat
+"Send an email to Kyle about the new training schedule., ",email_send
+"Can you schedule a meeting with the R&D team for feedback on the product?, ",calender_schedule
+Can you show me the best places to visit in Italy?,web_search
+"Schedule a conference call with the stakeholders for the upcoming event., ",calender_schedule
+How much paid leave do I accumulate each month?,knowledge_query
+"Can you arrange a meeting with the legal team to discuss new regulations?, ",calender_schedule
+"Arrange a meeting with the customer service team at 9 AM tomorrow., ",calender_schedule
+How do I apply for compassionate leave at work?,knowledge_query
+"Please set up a meeting with the product team to finalize the feature list., ",calender_schedule
+What is the tallest building in the world?,web_search
+How do I train my dog?,web_search
+How to Optimize Images for Website Loading Speed?,web_search
+How are things looking with the team?,general_chat
+"Please send an email to Grace with the updated agenda., ",email_send
+How do I start learning photography?,web_search
+What is the company's vacation accrual policy?,knowledge_query
+Can you email Bob with an update on the project timeline?,email_send
+What are the benefits of a plant-based diet?,web_search
+Can you find me a recipe for spaghetti?,web_search
+Can you explain the procedure for taking a leave of absence?,knowledge_query
+"Please schedule a follow-up meeting with the finance team to finalize the budget., ",calender_schedule
+"Send an email to Olivia to confirm the training session date., ",email_send
+What is our company’s sick leave policy?,knowledge_query
+Please arrange a meeting with the legal department for contract review.,calender_schedule
+"Please email Tom about the event details., ",email_send
+How are you today? Anything on the agenda?,general_chat
+How’s everything with you today? Feeling good?,general_chat
+How’s your family doing?,general_chat
+How’s everything at home today?,general_chat
+How’s it going today? Any plans for the evening?,general_chat
+How do I create an online portfolio?,web_search
+How much leave do I accumulate for each year worked?,knowledge_query
+"How’s everything today, anything exciting happening?",general_chat
+"Can you email Sarah about the meeting details?, ",email_send
+"Please email the team to arrange a review meeting on Friday., ",calender_schedule
+What's the weather like in NEW YORK today?,web_search
+What are the Advantages of using WordPress?,web_search
+How’s everything today? Anything interesting happen today?,general_chat
+How to Choose the Best Web Development Framework?,web_search
+What are the requirements for taking leave due to illness?,knowledge_query
+"Can you send an email to Ben with the invoice details?, ",email_send
+How to make a website load faster?,web_search
+How’s it going today?,general_chat
+"Send an email to Jack confirming the task details., ",email_send
+Search for the best movies to watch this weekend.,web_search
+Find a tutorial on how to use Photoshop.,web_search
+How’s it going today? Anything exciting planned?,general_chat
+Where can I find vegan recipes?,web_search
+What is the policy on paid holidays for employees?,knowledge_query
+How do I create an e-commerce website?,web_search
+What are the holiday leave benefits at our company?,knowledge_query
+What are the Best Tips for Creating a Personal Website?,web_search
+Search for news on the latest technology innovations.,web_search
+How’s your day going so far? Anything new on your side?,general_chat
+How are you today? Any fun plans today?,general_chat
+What’s the plan for today? Anything exciting coming up?,general_chat
+"Please schedule a meeting with Mark to review the quarterly report., ",calender_schedule
+How do I make a homemade pizza?,web_search
+"Can you email the sales team to schedule a meeting regarding upcoming sales targets?, ",calender_schedule
+What’s up with work today? Busy day?,general_chat
+How’s your productivity today? Feeling motivated?,general_chat
+Does the company allow flexible working hours?,knowledge_query
+How’s everything going today? Anything exciting happening?,general_chat
+What are the symptoms of anxiety?,web_search
+"Arrange a meeting with the project managers for the project review next week., ",calender_schedule
+"Schedule a meeting with the HR department on Friday at 2 PM., ",calender_schedule
+How do I know if I’ve used all my paid leave days?,knowledge_query
+What is the most common exercise for weight loss?,web_search
+Can you tell me how to bake a perfect cake?,web_search
+How do I apply for leave to handle a personal emergency or crisis?,knowledge_query
+Can you show me the latest Apple products?,web_search
+How have you been today?,general_chat
+"Please schedule a follow-up with the sales team for tomorrow afternoon., ",calender_schedule
+"Please set up a follow-up meeting with the client for the proposal review., ",calender_schedule
+What is blockchain technology?,web_search
+"Schedule a meeting with the content team for the new campaign., ",calender_schedule
+Search for the best podcasts for entrepreneurs.,web_search
+How have you been feeling today?,general_chat
+How much notice is needed when requesting time off?,knowledge_query
+"Can you set up a quick team sync for the updates?, ",calender_schedule
+What’s the most common pet in the world?,web_search
+"Can you send an email to Ben about the deadline for the project?, ",email_send
+Where is the best place to live in the world?,web_search
+"Please set up a team meeting tomorrow at 4 PM., ",calender_schedule
+Find me a guide on personal finance management.,web_search
+Send an email to Sarah about the project status update.,email_send
+"Send an email to Will to confirm the invoice payment., ",email_send
+Does the company offer leave for religious holidays?,knowledge_query
+How’s everything looking on your end?,general_chat
+What happens if I need to take an extended leave of absence?,knowledge_query
+What’s the latest news on the Mars mission?,web_search
+How are you today? Any exciting plans for the day?,general_chat
+How’s life going today?,general_chat
+Can I take leave for any personal reason without disclosing it?,knowledge_query
+Search for news on the stock market today.,web_search
+How have things been for you this week?,general_chat
+Where can I buy organic food online?,web_search
+Find the latest trends in social media.,web_search
+What are the benefits of our health insurance plan?,knowledge_query
+How are things going on your side?,general_chat
+"Send an email to Tim about the upcoming product release., ",email_send
+How are you doing today? Hope everything's good.,general_chat
+Set up a call with the project managers for Monday at 2 PM.,calender_schedule
+How’s your morning been?,general_chat
+Where can I get healthy meal delivery services?,web_search
+"Please send an email to Grace with the updated meeting agenda., ",email_send
+"Can you email Ethan about the new project timeline?, ",email_send
+"Schedule a meeting with the development team regarding the new tasks., ",calender_schedule
+What’s the best way to organize my digital files?,web_search
+"Can you schedule a review meeting with the client at 3 PM?, ",calender_schedule
+How does the company handle time-off requests for non-emergency situations?,knowledge_query
+"Can you email Susan about the project deadline?, ",email_send
+How’s your morning today? Anything interesting happening?,general_chat
+What is the company's policy on overtime?,knowledge_query
+How do I create an online store?,web_search
+What’s the vibe today?,general_chat
+"Send an email to Paul to discuss the recent changes in the project., ",email_send
+Is there any policy for taking leave during busy seasons?,knowledge_query
+Can you send an email to Tom regarding the upcoming team meeting?,email_send
+Can I take leave if I have a mental health day?,knowledge_query
+How is leave calculated for part-time employees?,knowledge_query
+What is the best way to save for retirement?,web_search
+Can you find top-rated fitness apps for weight loss?,web_search
+"Can you arrange a meeting with the client to discuss the final details?, ",calender_schedule
+What’s the procedure for requesting leave if I’m sick for more than a week?,knowledge_query
+"Can you set up a team sync-up tomorrow at 3 PM?, ",calender_schedule
+"Send an email to Kate about the new meeting schedule., ",email_send
+What is the procedure for applying for leave due to a family emergency?,knowledge_query
+"Send an email to Amy about the team building event., ",email_send
+"Send an email to John with the updated budget details., ",email_send
+How’s life today? Any plans for the day?,general_chat
+"Email Sophia about the new software update., ",email_send
+How are you today? Feeling great?,general_chat
+"Email Natasha about the new proposal submission deadline., ",email_send
+"Please send an email to Liam regarding the meeting schedule., ",email_send
+What is the procedure for applying for long-term leave?,knowledge_query
+How are you today? What have you been doing?,general_chat
+What is the procedure for applying for sick leave?<br />Please ensure all documents are submitted.,knowledge_query
+What is the company's policy on maternity leave?<br /><br />Do I need to submit any documentation?,knowledge_query
+Where can I learn digital marketing for free?,web_search
+How’s your energy level today?,general_chat
+"Please set up a meeting with Sarah and Mike for tomorrow afternoon., ",calender_schedule
+How’s everything going today? What’s on your mind?,general_chat
+How’s it going today?,general_chat
+How’s everything been on the personal front? <br />Anything exciting?,general_chat
+What’s the best way to invest in stocks?,web_search
+"Schedule a call with Emily regarding the updates at 4 PM today., ",calender_schedule
+"Send an email to Emma confirming the project meeting., ",email_send
+Can you schedule a meeting with the design team for next Tuesday?,calender_schedule
+How does the company handle leave requests for planned surgery?,knowledge_query
+Find me some vacation destinations in Asia.,web_search
+"Please email the group with the changes in the document requirements., ",email_send
+How does the company handle leave for long-term illness?<br />What’s the process?,knowledge_query
+"Send an email to Jordan regarding the product specifications., ",email_send
+Can I take leave for a personal or family emergency?,knowledge_query
+How are you today? Anything fun planned?,general_chat
+Search for trending topics on Twitter.,web_search
+How many paid sick days do we get each year?,knowledge_query
+"Please schedule a meeting with the development team for an update., ",calender_schedule
+What is the population of Brazil?,web_search
+How are you today? Anything on your mind?,general_chat
+How have things been with you today? Anything on your mind?,general_chat
+"Set up a call with the product team to discuss the launch schedule., ",calender_schedule
+How long can I take sick leave without needing a doctor’s note?,knowledge_query
+"Please email Emily regarding the new project details., ",email_send
+"Email John about the client feedback., ",email_send
+Can you email the client about the updated project schedule?,email_send
+How’s everything going with your social life today?,general_chat
+Please schedule a one-on-one with Sarah for next Monday afternoon.,calender_schedule
+"Please email David about the new schedule., ",email_send
+"Please schedule a meeting with Sarah to discuss the new launch., ",calender_schedule
+"Set up a team meeting to discuss the new product launch at 4 PM., ",calender_schedule
+"Send an email to the team confirming the new meeting time., ",email_send
+How are things with your family?,general_chat
+How do you feel today?,general_chat
+"Schedule a meeting with the development team on Thursday at 9 AM., ",calender_schedule
+What’s going on with you today?,general_chat
+"Send an email to Mark about the new budget changes., ",email_send
+Please arrange a team meeting with the design department at 9 AM tomorrow.,calender_schedule
+How’s work been treating you today?,general_chat
+How Can I Improve My Website’s SEO?,web_search
+Please email Mark with the final contract for the new project.,email_send
+How do I create a website with no coding experience?<br>Is it possible?,web_search
+How’s everything going with the work assignments? <br />Feeling productive?,general_chat
+"How’s it going today, any exciting news?",general_chat
+What’s the best way to invest in stocks?,web_search
+What’s up? <br />How’s everything going?,general_chat
+"Can you book a meeting with Mark for the project discussion?, ",calender_schedule
+How’s it been today? Anything exciting going on?,general_chat
+How’s everything today? Got any fun plans for the evening?,general_chat
+"Arrange a meeting with the sales team to review the quarter’s performance., ",calender_schedule
+"Send an email to Ellie confirming the task status., ",email_send
+"Please schedule a review meeting with the HR team on Tuesday morning., ",calender_schedule
+"Can you set up a meeting with the development team to discuss progress?, ",calender_schedule
+How do I start a successful YouTube channel?,web_search
+"Please arrange a check-in with the sales team at 10 AM., ",calender_schedule
+What is the largest animal on Earth?,web_search
+How’s your day been? <br />Anything exciting happening?,general_chat
+Where is the nearest coffee shop?,web_search
+Can you schedule a call with the development team for 11 AM tomorrow?,calender_schedule
+How are you today? What’s on your mind?,general_chat
+"Send an email to Daniel with the updated project timeline., ",email_send
+How do I request time off for a medical appointment?,knowledge_query
+What’s the weather forecast for Los Angeles this weekend?,web_search
+"Please send an email to Sandra confirming the meeting schedule., ",email_send
+Please set up a meeting with the HR department for next week.,calender_schedule
+How are you feeling today?,general_chat
+"Please arrange a meeting with the team to review the latest updates., ",calender_schedule
+How’s everything in your social circle?,general_chat
+How do I apply for time off for a medical appointment?,knowledge_query
+What are Some Free Website Builders?,web_search
+"Email the team to confirm the project task assignments., ",email_send
+Send an email to Sarah about the marketing strategy for next quarter.,email_send
+How’s life treating you?,general_chat
+What are the guidelines for taking leave when I have an ongoing medical condition?,knowledge_query
+Can I take leave to care for a family member?,knowledge_query
+Can I take leave if I have a health condition that requires rest?,knowledge_query
+Schedule a one-on-one with the CEO for next Thursday at 3 PM.,calender_schedule
+How are things going at work today?,general_chat
+Can I use my paid sick leave for medical appointments for a family member?,knowledge_query
+How do I create a successful business plan?,web_search
+Is there a cap on the number of vacation days employees can take?,knowledge_query
+What is the process for requesting leave during peak season?,knowledge_query
+"Please set up a video call with Sarah for the client updates., ",calender_schedule
+What’s up with you?,general_chat
+What’s the latest with you?,general_chat
+Please schedule a follow-up meeting with the client for next week.,calender_schedule
+Can I request leave during my probation period?<br /><br />Are there any restrictions?,knowledge_query
+How is vacation time calculated at our company?,knowledge_query
+Where can I get a good cup of coffee in New York?,web_search
+"Schedule a project planning meeting with the stakeholders., ",calender_schedule
+What’s going on in your life? <br />Anything exciting?,general_chat
+What’s the policy on carrying over unused vacation days?,knowledge_query
+How’s it going today? Is everything looking up?,general_chat
+Please send an email to Laura to discuss the upcoming product testing.,email_send
+What’s the difference between web hosting<br>and domain hosting?,web_search
+Search for the top vacation spots in Europe.,web_search
+Email Kate with the final design draft for approval.,email_send
+Send an email to John regarding the new project timeline.,email_send
+How’s everything been today? Anything interesting going on?,general_chat
+What’s new with you?,general_chat
+How does the company handle bereavement leave?,knowledge_query
+Please schedule a meeting with the finance team for next Monday.,calender_schedule
+"Send an email to Derek confirming the updated meeting time., ",email_send
+"Please arrange a quick meeting with the HR team to discuss employee engagement., ",calender_schedule
+"Please schedule a follow-up meeting with the design team., ",calender_schedule
+"Please send an email to Victor regarding the software update., ",email_send
+"Please send an email to Oscar regarding the project timeline., ",email_send
+Search for the most effective ways to learn a new language.,web_search
+How’s life been treating you lately?,general_chat
+"Can you send an email to Sophia to update her on the progress?, ",email_send
+How do I apply for leave to care for an ill family member?,knowledge_query
+"Please send an email to Alice asking for the project update., ",email_send
+Does the company have a policy for parental leave?,knowledge_query
+Can you explain the company’s policy on maternity leave?,knowledge_query
+How’s everything with your personal goals?,general_chat
+Can I take a leave of absence for educational purposes?,knowledge_query
+What is the company’s policy on annual leave carryover?,knowledge_query
+What’s the latest with you?,general_chat
+What’s been the highlight of your week?,general_chat
+How’s everything today? Got anything exciting happening?,general_chat
+"Please send an email to Karen regarding the client meeting., ",email_send
+"Set up a meeting with the client to review the design changes., ",calender_schedule
+"Please send an email to schedule a follow-up meeting with the project managers., ",calender_schedule
+How’s your day been today? Anything interesting happen?,general_chat
+"Schedule a meeting with the team tomorrow at 3 PM., ",calender_schedule
+What are the rules for requesting paid leave?,knowledge_query
+"Can you arrange a client presentation tomorrow at 4 PM?, ",calender_schedule
+How’s it going today? What are you working on today?,general_chat
+"Can you send an email to Susan with the project updates?, ",email_send
+"Please schedule a strategy meeting for the marketing team at 12 PM., ",calender_schedule
+How do I improve my memory?,web_search
+"Can you set up a team sync-up to review the progress on the task?, ",calender_schedule
+How’s everything going so far?,general_chat
+Can I request leave for a last-minute appointment?,knowledge_query
+How’s your family doing these days?,general_chat
+"Send an email to Grace with the details of the new proposal., ",email_send
+Can you explain our company's vacation leave policy?,knowledge_query
+Can I take time off without a doctor’s note?,knowledge_query
+How’s everything been for you lately?,general_chat
+"Please send an email to Charlie about the updated meeting time., ",email_send
+Can you find the latest news about SpaceX?,web_search
+What are the Best Tools for Website Analytics?,web_search
+Find me some good books on history.,web_search
+"Can you email Sarah about the changes in the schedule?, ",email_send
+"Set up a meeting with the operations team to finalize the logistics., ",calender_schedule
+How’s life today? Any challenges you’re dealing with?,general_chat
+"Send an email to Steve regarding the product launch details., ",email_send
+"Please arrange a meeting with the accounts department for budget approval., ",calender_schedule
+How are you doing today? Anything exciting going on?,general_chat
+What’s your mood like today?,general_chat
+"Please arrange a conference call with the vendors at 2 PM., ",calender_schedule
+Can you search for the top 10 movies in 2023?,web_search
+"How’s everything been today, good or bad?",general_chat
+"Please email Lucas about the upcoming meeting schedule., ",email_send
+"Send an email to Patricia regarding the product update., ",email_send
+How’s the day treating you?,general_chat
+What is the fastest way to get a job?,web_search
+How are you doing today?,general_chat
+"Please arrange a project discussion meeting for Thursday at 2 PM., ",calender_schedule
+How can I learn to code for free?,web_search
+How are you today? Is everything alright?,general_chat
+"Send an email to Maria about the status of the job interview., ",email_send
+How much leave is accrued annually at our company?,knowledge_query
+"Please schedule a client follow-up meeting on Wednesday., ",calender_schedule
+How do I apply for parental leave under our company's policy?,knowledge_query
+"Send an email to the team about the updated schedule., ",email_send
+"Please email the team with the project updates., ",email_send
+"Please schedule a meeting with Laura for the quarterly review., ",calender_schedule
+"Can you send an email to Sophie to update her on the new product?, ",email_send
+How are you today? Any fun plans today?,general_chat
+What is the company’s policy on sick leave for chronic conditions?,knowledge_query
+"Can you schedule a team meeting with Mark and John tomorrow?, ",calender_schedule
+"Can you email Richard about the feedback for the new product?, ",email_send
+How can I improve my sleep habits?,web_search
+"Send an email to Julia confirming the updated schedule., ",email_send
+What’s the easiest way to build an e-commerce site?<br>Looking for simple methods?,web_search
+"Send an email to Daniel regarding the project update., ",email_send
+What is the meaning of life according to philosophy?,web_search
+"Please schedule a meeting with Emily to review the project status., ",calender_schedule
+Can I take leave if I’m pregnant but not yet on maternity leave?,knowledge_query
+"Please email Carla about the updated schedule., ",email_send
+"Send an email to Nancy about the updated work schedule., ",email_send
+"Can you schedule a meeting with the product development team for next Thursday?, ",calender_schedule
+How do I request time off for a vacation?,knowledge_query
+What are the benefits of a plant-based diet?,web_search
+"Can you send an email to schedule a review call with the client for their feedback?, ",calender_schedule
+Can you search for the best deals on flights?,web_search
+"Please arrange a meeting with the sales team for the new campaign., ",calender_schedule
+"Send an email to Noah regarding the pending invoices., ",email_send
+"Please arrange a meeting with the operations team to discuss next steps., ",calender_schedule
+What are the benefits of meditation?,web_search
+How have things been with you this week?,general_chat
+Email Sarah to confirm her availability for the meeting tomorrow.,email_send
+"Can you set up a team check-in meeting tomorrow morning?, ",calender_schedule
+How to Get More Traffic to My Website?,knowledge_query
+"Please email Mark about the meeting time., ",email_send
+How do I improve my writing for essays?,web_search
+What’s new with you today? Any exciting updates?,general_chat
+Where can I find good quality gym equipment?,web_search
+Find a guide on effective communication skills.,web_search
+How do I request leave for a medical emergency?,knowledge_query
+"Send an email to Laura regarding the new project assignments., ",email_send
+Please arrange a meeting with the client for Friday at 10 AM.,calender_schedule
+Send an email to the development team about the next sprint’s goals.,email_send
+"Schedule a team meeting to finalize the deliverables for the project., ",calender_schedule
+What’s going on with work today?,general_chat
+"Please arrange a call with the legal team for the contract review., ",calender_schedule
+Can you search for good free online design tools?,web_search
+"Please send an email to Oliver regarding the customer inquiry., ",email_send
+What’s the procedure for requesting a leave of absence?,knowledge_query
+How are you feeling about the week ahead?,general_chat
+What’s the vibe like today? Busy or relaxed?,general_chat
+How to Create a Website with Multiple Pages?<br>What steps to follow?,knowledge_query
+What’s new with you these days?,general_chat
+Find me the best restaurants in Paris.,web_search
+What’s the company’s policy on taking leave for relocation purposes?,knowledge_query
+"Please schedule a team sync-up tomorrow at 3 PM., ",calender_schedule
+Email John to confirm the time for tomorrow’s meeting.,email_send
+How do I check my remaining leave balance for the year?,knowledge_query
+"Can you send an email to Ava about the updated schedule?, ",email_send
+How’s everything going with your friends today?,general_chat
+What is the company’s policy on employee bonuses?,knowledge_query
+What’s the capital of Italy?,web_search
+What’s up with you today?,general_chat
+Search for the best online learning platforms.,web_search
+Where is the Great Wall of China located?,web_search
+How do I improve my mental health?,web_search
+Can I take leave for a wedding?<br />Do I need to inform HR in advance?,knowledge_query
+How have you been feeling? <br />Anything on your mind?,general_chat
+"Send an email to Megan requesting the status of the document., ",email_send
+How are you today? Hope it’s a good day.,general_chat
+Can you tell me how to build a successful business online?,web_search
+Email the team about the changes in the upcoming project deadlines.,email_send
+Send an email to the client regarding the project deadline.,email_send
+How do I get started in digital marketing?,web_search
+Where can I buy a drone for photography?,web_search
+"Send an email to Henry to confirm the payment status., ",email_send
+"Schedule a quick check-in with the finance team regarding the budget adjustments., ",calender_schedule
+Please email Bob about the upcoming conference details.,email_send
+"Send an email to Steve about the new product release date., ",email_send
+"Can you send an email to schedule a video conference for the project status update?, ",calender_schedule
+"Can you send an email to Dylan regarding the new company policy?, ",email_send
+"Can you arrange a team sync-up tomorrow afternoon?, ",calender_schedule
+"Can you set up a video conference with the management team?, ",calender_schedule
+How’s it going today? Anything new going on?,general_chat
+What are the benefits of taking personal leave?,knowledge_query
+"Can you send an email to Mark about the new meeting time?, ",email_send
+Search for the top 10 movies in 2021.,web_search
+Can I take leave if I need to care for a child?,knowledge_query
+What is the best exercise for weight loss??,web_search
+"Send an email to Josh regarding the new company policy., ",email_send
+Find me some healthy snack ideas.,web_search
+"Email Sophie regarding the new meeting details., ",email_send
+Set up a meeting with the client to review the project progress for Friday.,calender_schedule
+"Can you email the development team regarding the upcoming update?, ",calender_schedule
+How’s everything been going at work? <br />Got any big projects?,general_chat
+How much notice do I need to give for personal leave?,knowledge_query
+What’s the weather like in New York?,web_search
+"Please send an email to Emma regarding the upcoming task., ",email_send
+Can I take leave for attending a funeral?,knowledge_query
+What is the leave policy for employees working part-time?,knowledge_query
+What’s the word on your end?,general_chat
+Can you explain the short-term disability leave policy?,knowledge_query
+"Can you set up a quick meeting with Sarah for tomorrow?, ",calender_schedule
+"Please send an email to David regarding the new project tasks., ",email_send
+Find information about the best coding bootcamps.,web_search
+"Email Lucas regarding the new training program., ",email_send
+"Set up a meeting with the content team regarding the new launch., ",calender_schedule
+"Please set up a quick team meeting to discuss the current sprint progress., ",calender_schedule
+Please schedule a meeting with the product team for next Monday.,calender_schedule
+Please send an email to Jack regarding the new project proposal.,email_send
+How’s everything with your plans for the weekend?,general_chat
+"Please schedule a follow-up meeting with the operations team., ",calender_schedule
+"How’s it going, anything exciting happening?",general_chat
+Find me a tutorial on Python for beginners.,web_search
+How’s your day going so far? <br />Hope it’s a good one.,general_chat
+"Send an email to Cindy confirming the new meeting time., ",email_send
+How do I train for a marathon?,web_search
+What’s the most expensive painting ever sold?,web_search
+What’s the latest update in your life?,general_chat
+"Can you arrange a meeting with the project leads for an update?, ",calender_schedule
+"Schedule a meeting with the accounting department for the budget review., ",calender_schedule
+How are you feeling about the upcoming week?,general_chat
+How’s your health today? Feeling energetic?,general_chat
+Can you arrange a video conference with the team at 3 PM today?,calender_schedule
+"Set up a meeting with the product managers to review the launch plan., ",calender_schedule
+What’s been the most interesting part of your day?,general_chat
+Can I take personal leave for a vacation?<br />Is it paid or unpaid?,knowledge_query
+What’s your plan for the weekend? <br />Anything fun lined up?,general_chat
+"Please send an email to Rachel regarding the new training materials., ",email_send
+How do I apply for long-term disability leave at work?<br /><br />Is it paid?,knowledge_query
+"Please arrange a team meeting tomorrow afternoon at 3 PM., ",calender_schedule
+Can I take time off if I am feeling unwell?,knowledge_query
+How to set up an online store with Shopify?,web_search
+How have things been on your end?,general_chat
+"Please arrange a call with the marketing team to review the campaign., ",calender_schedule
+"Send an email to Isabella about the new company event., ",email_send
+"Please arrange a client meeting for tomorrow at 3 PM., ",calender_schedule
+"Please send an email to Claire confirming the updated schedule., ",email_send
+"Can you send an email to Tom to confirm the payment details?, ",email_send
+How’s everything going so far today?,general_chat
+How’s your mood today? Everything good?,general_chat
+"Schedule a meeting with the software development team on Monday at 3 PM., ",calender_schedule
+How's life treating you today?,general_chat
+"Send an email to Lauren about the team meeting., ",email_send
+How’s your mood today? <br />Feeling positive or neutral?,general_chat
+"Can you schedule a quick meeting with the marketing team to finalize the ad copy?, ",calender_schedule
+Can I take time off for my birthday?<br />What is the procedure for that?,knowledge_query
+"Please arrange a meeting with the CEO to discuss the marketing strategy., ",calender_schedule
+How to set up an SSL Certificate for My Website?,knowledge_query
+"Please set up a call with the client for an in-depth project review., ",calender_schedule
+Search for top-rated mobile phones under $500.,web_search
+"Can you arrange a video call with Sarah to discuss the product?, ",calender_schedule
+"Please arrange a team meeting to finalize the marketing campaign for next month., ",calender_schedule
+"Please send an email to Steve with the new marketing plan., ",email_send
+"Set up a client call to discuss the final version of the proposal., ",calender_schedule
+Find me a tutorial on data science.,web_search
+How do I create a website for my business?,web_search
+What’s going on with you? <br />Anything exciting to share?,general_chat
+"Can you arrange a team meeting tomorrow at 1 PM?, ",calender_schedule
+"Can you schedule a follow-up with the creative team on Wednesday?, ",calender_schedule
+What is the company's policy on time off for religious observance?<br />Are there any restrictions?,knowledge_query
+How are you doing today? How’s life going?,general_chat
+"Can you set up a meeting with the project team for the updates?, ",calender_schedule
+"Can you arrange a meeting with the team for brainstorming at 2 PM?, ",calender_schedule
+What is the policy for employees taking unpaid leave for personal reasons?,knowledge_query
+"Send an email to Henry about the upcoming report., ",email_send
+How do I learn graphic design from scratch?,web_search
+Send an email to the team about the upcoming conference.,email_send
+How’s everything going with your day so far?,general_chat
+Can I take leave for a religious holiday?<br /><br />Are there any limits?,knowledge_query
+Please schedule a meeting with the legal department for next Thursday.,calender_schedule
+How’s everything in your world today?,general_chat
+"Can you email the client about the new meeting details?, ",email_send
+What’s the best way to learn Spanish?,web_search
+Where can I get affordable gym memberships in New York?,web_search
+Does the company offer any leave for attending conferences?,knowledge_query
+"Schedule a call with the customer support team at 2 PM today., ",calender_schedule
+What is the process for submitting a leave request form?<br />Is there a deadline?,knowledge_query
+Can you tell me if employees can take leave for volunteer work?,knowledge_query
+How’s your mental state today? <br />Feeling good?,general_chat
+"Schedule a meeting with the HR team tomorrow at 11 AM., ",calender_schedule
+How does the company handle leave requests during busy seasons?,knowledge_query
+Email Bob with the updated project deliverables.,email_send
+"Please schedule a meeting with the legal team to review the contract., ",calender_schedule
+How do I start a podcast?,web_search
+What are the steps to Create a Mobile-Friendly Website?,web_search
+How’s the weather been today where you are?,general_chat
+Send an email to the client regarding the project milestone.,email_send
+"Please email Tom about the details of the next team event., ",email_send
+"Please send an email to Nancy confirming the new training session., ",email_send
+What are the rules around carrying over unused leave days?,knowledge_query
+What’s the procedure for requesting leave for family-related reasons?,knowledge_query
+Can I take a leave for a short-term personal emergency without documentation?,knowledge_query
+How’s everything looking with your day?,general_chat
+Can I take leave for a personal project or vacation abroad?,knowledge_query
+How many vacation days do we get this year?,knowledge_query
+How’s everything in your daily routine?,general_chat
+"Can you send an email to Edward about the new software update?, ",email_send
+How do I start investing in stocks?,web_search
+How far is the moon from Earth?,web_search
+Can you schedule a follow-up meeting with the marketing team for next Tuesday?,calender_schedule
+What is the policy on leave during a medical procedure?,knowledge_query
+What is the process for applying for parental leave?,knowledge_query
+Search for information on the latest iPhone release.,web_search
+"Can you set up a call with the development team to discuss the build?, ",calender_schedule
+How do I apply for parental leave?,knowledge_query
+How’s it going today? Anything interesting you want to share?,general_chat
+"Send an email to Robert regarding the updated meeting details., ",email_send
+Can you schedule a meeting with the stakeholders at 4 PM tomorrow?,calender_schedule
+"Can you arrange a meeting with the legal department to discuss the contract?, ",calender_schedule
+What’s your mood today?,general_chat
+What’s the best book to start learning about economics?,web_search
+"Please book a meeting with the marketing team for the new product launch., ",calender_schedule
+How’s it going this morning?,general_chat
+Find the best restaurants in Paris. <br />Are there any recommendations?,web_search
+Can I take leave for travel purposes during off-peak work periods?,knowledge_query
+What is the best way to start investing in real estate?,web_search
+How’s it going? Feeling good today?,general_chat
