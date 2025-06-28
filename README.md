@@ -11,6 +11,7 @@ INTENT_CLASSIFIER/
 └── README.md
 
 
+
 ## 🔧 Installation
 
 1. Clone the repository:
@@ -23,6 +24,7 @@ INTENT_CLASSIFIER/
 
 python -m venv myenv
 myenv\Scripts\activate
+
 
 3. Install required dependencies:
 
@@ -49,3 +51,5 @@ PYTHONPATH=. pytest api/tests/test_main.py
 
 
 
+---
+ 
